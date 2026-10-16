@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzclRBNHFLR2NYT1JIYThNaDdLRVArYUZLZElXaFRZZ3RzdVpId2p2aVlsZEZvS1dTejNyYmVUMGs2RUhocEJWK1ZURHk4bEdLaWJCaEVrZ25EOVVxSEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTYyNDMyCWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8xLjEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjAKUHV5R2xJRVdHVUFOakZVd0hYcHdqUEN5M2pralAxK29kTWQzOGpPOCtwbExPMHFKbVd1L3g0bS9PWmdFSFRNSWFJQnNlcXF6dTJJWmthZFQ3MnBjQXc9PQo=",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v1.1.0/StrikeOrder-Control-Panel_1.1.0_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-10-16T14:54:38Z",
+    "version":  "1.1.0",
+    "notes":  "Novita\u0027: Gestione eventi con locandine per i totem (data, ora, descrizione, foto, QR per prenotare, tre lingue); filmati: si puo\u0027 ritagliare un pezzo e i formati avi, mkv, wmv, mov, mpg vengono convertiti; pulsante per copiare immagini e filmati da Strike Order a Bill Order e viceversa; immagini sempre 16:9; in alto a destra la casella bloccata con versione e aggiornamento."
+}
