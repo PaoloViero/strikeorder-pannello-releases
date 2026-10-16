@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcmZDcm4wZlpOU2p2WXZZU3MxTjEzdlU2a2twTDAvQjRmNVVCdHlVSTk3djF6Q2ZhNzJtR245TkxabTRLcTVxRVRuK3ptYXFkRmJCN014MzR5RnkwOWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTY3NDgzCWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8xLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjEKOFZqZkJXbjRJQzZTU0N2eFBBVXd2L2E3STdhZWVWbWw2Z0VKWmd3RU1WY0Q5L3J3REE0RUN3a2dMNWg4TWlkckYwM0VhSHA0Zm9Pd3MrZFBlZTV1QVE9PQo=",
-                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v1.1.1/StrikeOrder-Control-Panel_1.1.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzclk5YTFFM1pXVFZwVTFsYWFaN2cySDk1YitDTm1tTmdLcTRBRThWNmFQUXFTc2tQWGlxRHUrUEZURFh1VStrb0xVZXEzdjhaWGtMVTY4dVpoakFyK2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTY5NzY1CWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8xLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjIKU0Zpd2tFeTkzSHF5VEY2dE81VTlhSEdNMmF3K1hGSy9KVDNSWTU0Uk9KOTZVZnZ4S25ZK1dvQTQyL3owS1hDN1MrT1hhd3A1dGo4cmpUb0RnSkYxRFE9PQo=",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v1.1.2/StrikeOrder-Control-Panel_1.1.2_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-16T16:18:42Z",
-    "version":  "1.1.1",
-    "notes":  "Novita\u0027: Registrazioni ed e-mail (elenco dei clienti registrati dal totem, informativa privacy, invio e-mail di prova con le impostazioni di EasyCoin); dopo 30 secondi senza toccare niente il pannello torna alla Home; tolto il pulsante Gestione testi scorrevoli."
+    "pub_date":  "2026-10-16T16:56:41Z",
+    "version":  "1.1.2",
+    "notes":  "Novita\u0027: E-mail a tutti i clienti registrati (scrivi il messaggio una volta, il programma manda una copia per cliente col suo nome); collegamento della card al cliente registrato; pulsante Non piu\u0027 per chi non vuole piu\u0027 ricevere e-mail; l\u0027elenco dei clienti si aggiorna da solo."
 }
