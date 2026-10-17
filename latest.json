@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzclNNVGlQR09CMUZaTWpXZkh5MzgwTkg5b3NzZW83QkprZGhNcUJkdjBOdXdneWZwRTljRTAxUEJaZy9kYkdneittNUpGU3lKbWc3RjdnR1MvcisxMUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjI4ODkxCWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8xLjEuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjMKWXJvYVltcjZhRkVHQlJWQkl5ellHaU8xcFZyUW1kSTk2Tmhoc3pjNTJCdEM4anR1MjZCQjJNRWpEYmRpQUlkbE1rdTRtY0x1eG9YNTdUeHNVUGtiQXc9PQo=",
-                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v1.1.3/StrikeOrder-Control-Panel_1.1.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcmJhTVpUaExJNzRvWXFKVUlaNXNWQ3d0R2V6OUJobmpYcEVldURFYWxITFJNc0IzOE1iZHVJZGwxL2NsSXpMeFlQcThqb3ZyQlFpdnZlQUxNTGRDN3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjMxNTIzCWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8xLjEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjQKbjYxdmFDRkRWN2ptcVdnVlluWXlMYjIrbk85UE5CenZpd1pmMWFaT25lbHMxa0NlMThvcWJZVlFaRUdoWkdNSlYzOXBvZDduZ3dqZjMwd3lSYnBWQ1E9PQo=",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v1.1.4/StrikeOrder-Control-Panel_1.1.4_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-17T09:22:10Z",
-    "version":  "1.1.3",
-    "notes":  "Passaggio immediato tra Control Panel e Cassa Giochi a tempo: i due programmi restano aperti e si passano il primo piano, senza chiudere e riavviare."
+    "pub_date":  "2026-10-17T10:12:01Z",
+    "version":  "1.1.4",
+    "notes":  "Gestione terminali sulle piste (stop a tempo dei totem, elementi della Home, ordine al bar con la tessera RFID). Registrazioni: card collegabile a qualunque cliente con completamento automatico dei dati da EasyCoin, indirizzo di risposta delle e-mail. Prenotazione Compleanni nel pannello."
 }
