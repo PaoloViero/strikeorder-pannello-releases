@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcmJhTVpUaExJNzRvWXFKVUlaNXNWQ3d0R2V6OUJobmpYcEVldURFYWxITFJNc0IzOE1iZHVJZGwxL2NsSXpMeFlQcThqb3ZyQlFpdnZlQUxNTGRDN3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjMxNTIzCWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8xLjEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjQKbjYxdmFDRkRWN2ptcVdnVlluWXlMYjIrbk85UE5CenZpd1pmMWFaT25lbHMxa0NlMThvcWJZVlFaRUdoWkdNSlYzOXBvZDduZ3dqZjMwd3lSYnBWQ1E9PQo=",
-                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v1.1.4/StrikeOrder-Control-Panel_1.1.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcll2M2kvYmlFV1k4NFhab0ZEVWV3MzZIRG9vZFdrTXY5KzlwOWtXK3JSOURVQ2NtYjRFV3JnUy9GNC9kV2QyMHlYY0h5M3pmdGdqVmZEMGxUSEtyMFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjMyNzczCWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8xLjEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjUKNVRXaUU3QW1nWXBNZ0tTdGgyTXJXSjJYVTc2Z3h3UUtGLzB6dGFrZURaS09DOHZlVUhjekZERG9veUZLaVBkbWxrNnRMWVkydno3eXovNW53RTZSQXc9PQo=",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v1.1.5/StrikeOrder-Control-Panel_1.1.5_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-17T10:12:01Z",
-    "version":  "1.1.4",
-    "notes":  "Gestione terminali sulle piste (stop a tempo dei totem, elementi della Home, ordine al bar con la tessera RFID). Registrazioni: card collegabile a qualunque cliente con completamento automatico dei dati da EasyCoin, indirizzo di risposta delle e-mail. Prenotazione Compleanni nel pannello."
+    "pub_date":  "2026-10-17T10:26:45Z",
+    "version":  "1.1.5",
+    "notes":  "Nuovo logo Strike Order nella testata e nuovo pulsante Esci."
 }
