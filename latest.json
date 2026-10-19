@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcldQTWprcEwvdG1EUVk5cU5odEM5bk84RVZEL253dlE2MXc4c0R3am5QRWdVNFJrTTgrc2pLRjM2N0tFOUwvK2Zxdnd2d1RVRFFKNGJmelVWRGJTQlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjU5ODA2CWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8xLjEuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjYKZ3AwR0NNVG0vMWhSQVJWdHczSGZZNnQ4a29RUlE5ZHBYRWlxWGlTZkhtSm10N1NsRjdBbkxLR20zcVU0U3hhNUYxSVhudjlOay9IVElTZVNJNHJ6QXc9PQo=",
-                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v1.1.6/StrikeOrder-Control-Panel_1.1.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcmVTdGRBak53RUczVGpZa1J3dy94REZ0NGp6SUlXSlFDY2l0aVlGaktHSzY5dlRQcjl0WnZhMVdreHRNRXdnRTNoaWx5b2xzMmFwdisybHFIcGladFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDI5NzM4CWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4xLjEKRGIzb3dKYk9TRFJwN1dkbklWdzN4RFIvcUlNUG5lMEl6U0dkajVkdXRkejMvbmYvay9kTWFiaTdvdlM2SnJHTisyb2t5b3VTRkZFSnNMQjkyRTRIQmc9PQo=",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.1/StrikeOrder-Control-Panel_2.1.1_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-17T17:57:36Z",
-    "version":  "1.1.6",
-    "notes":  "Nuova Home: icone più piccole (8 per riga), nomi nuovi dei pulsanti, logo e pulsante Esci nuovi, pallino rosso con le prenotazioni compleanni, riquadro Messaggi per l\u0027operatore, pulsante Disposizione icone per l\u0027operatore. Nuovi: Gestione terminali sulle piste, Punti in Fidelity Card, Dati della Sala Giochi (con posta di servizio per l\u0027Installatore e Importa da EasyCoin). Controlla ora e AGGIORNA TUTTO aggiornano la suite (Cassa Giochi a tempo, Prenotazione Compleanni, Control Panel). La Cassa Giochi si precarica in sfondo."
+    "pub_date":  "2026-10-19T17:09:43Z",
+    "version":  "2.1.1",
+    "notes":  "Strike Order 2.1.1: un solo programma (Cassa Giochi a tempo, situazione piste Strike Order collegata a USBowling, Listino con varianti, Agenda compleanni, Report) con menu rapido; fine turno con BAR e voci Altro e Report contabile per categoria; accensione e spegnimento dei terminali; permessi Tariffa 1/2/3."
 }
