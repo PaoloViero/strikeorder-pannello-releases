@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcmVTdGRBak53RUczVGpZa1J3dy94REZ0NGp6SUlXSlFDY2l0aVlGaktHSzY5dlRQcjl0WnZhMVdreHRNRXdnRTNoaWx5b2xzMmFwdisybHFIcGladFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDI5NzM4CWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4xLjEKRGIzb3dKYk9TRFJwN1dkbklWdzN4RFIvcUlNUG5lMEl6U0dkajVkdXRkejMvbmYvay9kTWFiaTdvdlM2SnJHTisyb2t5b3VTRkZFSnNMQjkyRTRIQmc9PQo=",
-                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.1/StrikeOrder-Control-Panel_2.1.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcllTVkk1OEdTZWY3c1B5LzFSKzBUQ21NeUFja1NNbk9NR293alN1cU1EZVVzQTBpN1M4RWpJSm9LWWtZc00zQkVXd2dZWGhybWptTnh5Ui9EakEwK3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDgyMjMzCWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4xLjIKeWFGSlY1N0pidkh4SmZ6d1k3eEt2ZEZBb1BTQjdxYU02ZTNEQXlDRFRKLzVOODRzaVcyTGNsZ1hpbEVKeWdKQWdTd1J5YUlrWGNjQXdXRTJCQkF2REE9PQo=",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.2/StrikeOrder-Control-Panel_2.1.2_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-19T17:09:43Z",
-    "version":  "2.1.1",
-    "notes":  "Strike Order 2.1.1: un solo programma (Cassa Giochi a tempo, situazione piste Strike Order collegata a USBowling, Listino con varianti, Agenda compleanni, Report) con menu rapido; fine turno con BAR e voci Altro e Report contabile per categoria; accensione e spegnimento dei terminali; permessi Tariffa 1/2/3."
+    "pub_date":  "2026-10-20T07:44:28Z",
+    "version":  "2.1.2",
+    "notes":  "Report via e-mail del Proprietario (Account e permessi: indirizzi, ogni giorno / settimana / mese, ora di invio, prova immediata). Senza database F10 apre Configura connessione senza password."
 }
