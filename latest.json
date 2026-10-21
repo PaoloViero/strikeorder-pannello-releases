@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcmJWRmp6c2pqY2NxSnd3VnVtYm5QYlNYYjJ4L3hjTHZwR01JYnM3Y3YvS3RYUUZwY3pkekVnRTFZMWxVS2pueHU3SzFaWkpuZUFjTHNVMUU4L0xYbGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjA3OTgxCWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4xLjQKRzR6YS8yOVJiSEw1TjFVQWlJVG56MzNJeHBVS1g2TFRDV3ZyNDA0dWJ5NUZCcTZ6d2YzUDBha0ZYYm1TeGF3Z1ZlcDhiYTh1Q3psMG1kb3p2ckhMQUE9PQo=",
-                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.4/StrikeOrder-Control-Panel_2.1.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcmUrZktwaFNrMUYyZkp1NjRvV0h5UnR0cXMyZGRsM3dLSTNyM1c2UDY0cVBDd3ptckFzRENmWFJYb2ZVV1RNc255SFA1RUF2WU9UMkpqZGllTS83OHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjE1NDA4CWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4xLjUKQU5HRmVxdFRCOFhxeUk5UlBrQTZaQmliQzVzN3lKSjFBTHB1ejVhZVNZQnN2MVJKRnN4TEZYVjZtSlhtczVNTk1Hc25LY0l2eVlkSytUdFFVcHUzQnc9PQo=",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.5/StrikeOrder-Control-Panel_2.1.5_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-21T18:43:39Z",
-    "version":  "2.1.4",
-    "notes":  "Database EasyCoin anche su un altro server della rete: F10, sezione Database EasyCoin (server, database, utente), vale per tutta la sala."
+    "pub_date":  "2026-10-21T20:53:43Z",
+    "version":  "2.1.5",
+    "notes":  "EasyCoin non obbligatorio; posta noreply@arcadesolution.it gia\u0027 impostata"
 }
