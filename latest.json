@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcmUrZktwaFNrMUYyZkp1NjRvV0h5UnR0cXMyZGRsM3dLSTNyM1c2UDY0cVBDd3ptckFzRENmWFJYb2ZVV1RNc255SFA1RUF2WU9UMkpqZGllTS83OHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjE1NDA4CWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4xLjUKQU5HRmVxdFRCOFhxeUk5UlBrQTZaQmliQzVzN3lKSjFBTHB1ejVhZVNZQnN2MVJKRnN4TEZYVjZtSlhtczVNTk1Hc25LY0l2eVlkSytUdFFVcHUzQnc9PQo=",
-                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.5/StrikeOrder-Control-Panel_2.1.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcllZbFRlazd2K1QrRHkrdElJSXE2NkxPb1ZnUXhDaWRLL3JVVVZwdUU5bmlhVjhNZUFUVURsQnFISXRyVEVpREdNd1JkVXdCT1E3SXdhVjBGUStLcVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjYwNDYyCWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4xLjYKb0R5ZlZ3VnpnL1lIditZeUc4QkJkYzlNWjNKUU9TWExxM0JYME16LzVaeTQyZHdCa1JjZWVxeEJaT3ZLdVEvZHF5QWJseklSSDBVREtMVzQzVHEwQmc9PQo=",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.6/StrikeOrder-Control-Panel_2.1.6_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-21T20:53:43Z",
-    "version":  "2.1.5",
-    "notes":  "EasyCoin non obbligatorio; posta noreply@arcadesolution.it gia\u0027 impostata"
+    "pub_date":  "2026-10-22T09:15:00Z",
+    "version":  "2.1.6",
+    "notes":  "Monitor prenotazioni (gestione monitor verticali e orizzontali); Live Bar: lista d\u0027attesa USBowling con chiamata a voce; Giochi a tempo: numero della prenotazione e chiamata a voce; F10 Audio prenotazioni SI/NO"
 }
