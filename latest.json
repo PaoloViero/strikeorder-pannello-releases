@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcmNnVGtRaGJKa2pvbGlvb0I5TlR6dzl4YnVHTXVZVTBvY3ZPNzJuUFhDWGN5UE1GSGdLUTNLVXRrcWRNNk4vVC9BNjhXWldCdEpUK2NENHR1dlZTRlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjYyMjYyCWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuN194NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4xLjcKMVB2bEt2MUdodFB1Z3o1cFZWMU56U1pEclAralVnYjNVZ3VSZnlOdytQMmsreXFsRUplT05QN0tSNnhyaUlWMytGeXVsS1dVUzlwMWVvbVFIL3VLQnc9PQo=",
-                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.7/StrikeOrder-Control-Panel_2.1.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzclIrUjJZblRqNGc1eUdvVzlkUzZRd2dIN01HN1NLci9kS09TYnpONU9xRzlmWlA4MzRPZm9xbWxmV1dMbDNJU3EyUitvcU84d2dpb3NMZUNzSHRZYmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY2OTc1CWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4xLjgKVWc1VWpVek1sb0pMdGdkNnhRS2c2T1VLeE95ZE1HK3UvUGk1UUdVYzYzKzFIQk1LSzZsYXVuaFNXaDJGV0trbUdldURDKzFmMWZpUDFEWmFUc3lUREE9PQo=",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.8/StrikeOrder-Control-Panel_2.1.8_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-22T09:48:20Z",
-    "version":  "2.1.7",
-    "notes":  "Posta funzionante anche senza il nome della sala e senza EasyCoin (basta la password della posta)"
+    "pub_date":  "2026-10-22T11:03:31Z",
+    "version":  "2.1.8",
+    "notes":  "Chiamate delle prenotazioni sui monitor (lampeggio di un minuto), Ultima chiamata e Annulla chiamata, dal BAR e dai Giochi a tempo"
 }
