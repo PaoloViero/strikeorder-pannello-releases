@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzclp2dUV2S2pEaFJ3OVhXUkt6Y1lEYW1LZjZRVFhYYitadjkzaStLWHA4S0pDV3dFeEpYanlQZHZtTVR2M3l1Wm95WlhpNkVkTUptRVA3ZHppV29DcFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjg2MzMxCWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuOV94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4xLjkKSURzRkJzcEZXWFpmMENHbG9UbCt4Z0ZvdkF4QlNwQUpiZ0ZTaHA0N1dlbDZGalArM2FBa1VKTE50NmI1V0hhaWhySWhhOEhyN3VEWUlVa1krU1JqQXc9PQo=",
-                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.9/StrikeOrder-Control-Panel_2.1.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzclIxYW9PeXFFWWxrMkdDZjJEaW8zZ3VnZVdmQ1l6SDR1MEZrRFVHWGtIcEQ2TDZxU09SNUtDQ1FDRy9Bc1ZrVC9hZ1dkOG9DR3diSGZtZ3lSbFhWTmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzY0ODczCWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuMTBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMS4xMAp0S2M2bDlTMTlQZ3hFeVhudWRxd2wvV3cxczlXTlp2TUdobXY1THRJYW5pQy9NNzRIaG45QjVkNVZ2YzB5WjNsS2xta2RVRVJtbTdoeVZSLzBaTW9CUT09Cg==",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.10/StrikeOrder-Control-Panel_2.1.10_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-22T16:25:54Z",
-    "version":  "2.1.9",
-    "notes":  "Giochi a tempo: transazioni del giorno con il cambio di pagamento (CASH, POS, SATISPAY); Listino: foto online da scegliere in una griglia di almeno 10"
+    "pub_date":  "2026-10-23T14:15:23Z",
+    "version":  "2.1.10",
+    "notes":  "Strike Order 2.1.10: Fine Giornata (da accendere in F10: conteggio della cassa, spese, mail, elenco nel Report, turno chiuso alle 6); Live Bar con gli ordini del totem nel + BAR, Transazioni e bar che segue la pista spostata in USBowling; Listino con la descrizione per la ricerca delle foto; altri terminali per accensione e spegnimento; stampante POS anche dal Proprietario; tolto Fine Turno dai Giochi a tempo."
 }
