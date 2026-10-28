@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzclIxYW9PeXFFWWxrMkdDZjJEaW8zZ3VnZVdmQ1l6SDR1MEZrRFVHWGtIcEQ2TDZxU09SNUtDQ1FDRy9Bc1ZrVC9hZ1dkOG9DR3diSGZtZ3lSbFhWTmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzY0ODczCWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuMTBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMS4xMAp0S2M2bDlTMTlQZ3hFeVhudWRxd2wvV3cxczlXTlp2TUdobXY1THRJYW5pQy9NNzRIaG45QjVkNVZ2YzB5WjNsS2xta2RVRVJtbTdoeVZSLzBaTW9CUT09Cg==",
-                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.10/StrikeOrder-Control-Panel_2.1.10_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcmR6bFVzdU16VG45N0VBZDdVZjhoTVpoSXhXVXdYV2NFZHRrQTNtdnpxalQyaHJVTWk5aGxlbXRJZmljQ09yaXBxaTJFSGtYOXUyaGhGT1ZjdlBNNndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjEwNzQ4CWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuMTFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMS4xMQpvbHUwZjlaRktaNTMwUUdMRWJNZTl4MG9mOWxMWjBDSWExUW56dGs5RWxWL2NaVWxDRW1YdXlMQXZXRzliK01XeWVRbHlkdUE0aUZiMWdRcXI3akVEUT09Cg==",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.11/StrikeOrder-Control-Panel_2.1.11_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-23T14:15:23Z",
-    "version":  "2.1.10",
-    "notes":  "Strike Order 2.1.10: Fine Giornata (da accendere in F10: conteggio della cassa, spese, mail, elenco nel Report, turno chiuso alle 6); Live Bar con gli ordini del totem nel + BAR, Transazioni e bar che segue la pista spostata in USBowling; Listino con la descrizione per la ricerca delle foto; altri terminali per accensione e spegnimento; stampante POS anche dal Proprietario; tolto Fine Turno dai Giochi a tempo."
+    "pub_date":  "2026-10-28T18:06:28Z",
+    "version":  "2.1.11",
+    "notes":  "Strike Order 2.1.11: la finestra Dati della Sala Giochi si apre sopra F10 (prima restava dietro) e il Proprietario la apre anche dalla finestra Account."
 }
