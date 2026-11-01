@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcmR6bFVzdU16VG45N0VBZDdVZjhoTVpoSXhXVXdYV2NFZHRrQTNtdnpxalQyaHJVTWk5aGxlbXRJZmljQ09yaXBxaTJFSGtYOXUyaGhGT1ZjdlBNNndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjEwNzQ4CWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuMTFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMS4xMQpvbHUwZjlaRktaNTMwUUdMRWJNZTl4MG9mOWxMWjBDSWExUW56dGs5RWxWL2NaVWxDRW1YdXlMQXZXRzliK01XeWVRbHlkdUE0aUZiMWdRcXI3akVEUT09Cg==",
-                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.11/StrikeOrder-Control-Panel_2.1.11_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzclJRTEZpMVBuZzlCMmY4RldzdnpLd1Z5WjE5RkZpb1c2MytCRXZQWVhkTldFV2o1aXQydDg2K3YyeVdyY204bnNJSUNSbWRRVlA2MzJpaWVVQzh4VXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTMxNjM1CWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuMTJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMS4xMgp2SjUrNzdETTF0TGFpZmNiR0ZRaVpFU25aTDRiL0lJcWY0QTdsZGcyZE02dFR6WDBXcTVnenJSR1hzT0J6eStxWnFCamdUYVFBV0lyZXorcHVydjNCdz09Cg==",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.12/StrikeOrder-Control-Panel_2.1.12_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-28T18:06:28Z",
-    "version":  "2.1.11",
-    "notes":  "Strike Order 2.1.11: la finestra Dati della Sala Giochi si apre sopra F10 (prima restava dietro) e il Proprietario la apre anche dalla finestra Account."
+    "pub_date":  "2026-11-01T11:15:26Z",
+    "version":  "2.1.12",
+    "notes":  "Strike Order 2.1.12: aggiornamenti per sala (codice della sala in F10); report e Fine Giornata anche alle Mail di riferimento; Fine Giornata con compleanni (valore e totale del mese) e ore del personale (oggi e mese), da accendere in F10; esito di stampa e mail sempre visibile; reset della contabilita di USBowling (F10, di partenza NO); tolta la scelta del monitor; le finestre dell\u0027Installatore non si chiudono da sole."
 }
