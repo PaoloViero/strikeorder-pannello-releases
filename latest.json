@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcldmTEV0a1RhSjVveVllT0NSV2NNNGpVQSswcVM5M2NjRWdPZkJRMzFFL1puTTBCSWRjS3A4Z1VaTGtsUUt4NGdraFlXdnJZWkVkK2tHSkJwWnJTcVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTk0MjY2CWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuMTNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMS4xMwpGc2hsWkNLYnZjeWZRYVd4UFgvd3BNbjZxNHJucFk3YmdnVWFyRjhFcUx2Y2l2RnZJbk4rODdIeVBMMkM3NkMvTEg0NWJCWU1WTm5KTXVvcnNNTndBdz09Cg==",
-                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.13/StrikeOrder-Control-Panel_2.1.13_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTzBTdFNkWmMzcmExOGlvbk1KZmxkZlR5aVBHY2dsT21Ccm9uWklUaE8yQ3lKSUtMK1NrelB1NHVRaWtrTXRaejdFamQ1YlBIc0ZORURtYXo0Z3FBWU41bFZTT0NKL0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTk1ODU3CWZpbGU6U3RyaWtlT3JkZXIgQ29udHJvbCBQYW5lbF8yLjEuMTRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMS4xNApsTHY2WG5qWVVPeFk3bFl5VlpNWGpPQkJEOWZjUlhmUUJWZ2pSWVlRZVRvdHBYa3VCQm01TTU0dUtOSERVS2NyL1VjREZBcWNKZXRIZHR1Zmozb01Edz09Cg==",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-pannello-releases/releases/download/v2.1.14/StrikeOrder-Control-Panel_2.1.14_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-11-13T18:24:56Z",
-    "version":  "2.1.13",
-    "notes":  "Listino Prezzi Bar: le foto dei prodotti vengono copiate sul PC, il listino si apre subito."
+    "pub_date":  "2026-11-13T18:51:24Z",
+    "version":  "2.1.14",
+    "notes":  "Lavoratori: l\u0027entrata si conta dalla mezz\u0027ora successiva con 5 minuti di tolleranza."
 }
